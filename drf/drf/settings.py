@@ -25,7 +25,7 @@ SECRET_KEY = '=_j2l-y=waxhi(#9pnw-^=ca5u*ql=ni9=yn2*^2kj187-@x+d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['hw6-import-mysql-wyde.c9users.io']
+ALLOWED_HOSTS = ['128.199.174.214']
 
 
 # Application definition
@@ -122,4 +122,5 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.11/howto/static-files/
 
+STATIC_ROOT = '/home/yeeede/seidm-hw7/drf/static/'
 STATIC_URL = '/static/'

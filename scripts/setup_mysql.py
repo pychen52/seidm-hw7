@@ -1,4 +1,4 @@
-#!/home/ubuntu/.env/bin/python
+#!/home/yeeede/pyenv/bin/python
 # -*- coding: utf-8 -*-
 
 import sys
