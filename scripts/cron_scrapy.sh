@@ -1,5 +1,5 @@
 #!/bin/sh
-PATH=$PATH:/home/yeeede/pyenv/bin/
+PATH=$PATH:/home/peiyuan/pyenv/bin/
 export PATH
-cd /home/yeeede/seidm-hw7/scrapy
+cd /home/peiyuan/seidm-hw7/scrapy
 scrapy crawl a136
